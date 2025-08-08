@@ -1,0 +1,8 @@
+"mod"
+{
+	"name" "Bigger Test Mod"
+	"id" "test_mod_big"
+	"description" "Simplest example of a mod now bigger"
+	"version" "1.0.1"
+	"author" "AAAA"
+}
